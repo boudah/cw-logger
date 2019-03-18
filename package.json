@@ -10,8 +10,8 @@
     "logger",
     "timelogger"
   ],
-  "author": "eLamp",
-  "license": "ISC",
+  "author": "boudah",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^11.11.3"
   },
