@@ -1,5 +1,5 @@
 {
-  "name": "logger",
+  "name": "cw-timelogger",
   "version": "1.0.0",
   "description": "Logger and TimeLogger based on AWS CloudWatch",
   "main": "index.js",
@@ -12,6 +12,7 @@
   ],
   "author": "boudah",
   "license": "MIT",
+  "homepage": "https://github.com/boudah/cw-logger",
   "devDependencies": {
     "@types/node": "^11.11.3"
   },
