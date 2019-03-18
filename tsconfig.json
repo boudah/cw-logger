@@ -1,0 +1,17 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "sourceMap": false,
+        "noImplicitAny": false,
+        "allowJs": false,
+        "target": "es2015",
+        "module": "commonjs"
+    },
+    "include": [
+        "./src/**/*"
+    ],
+    "exclude": [
+        "**/*.spec.ts"
+    ]
+}
